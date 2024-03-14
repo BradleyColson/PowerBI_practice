@@ -1,8 +1,18 @@
 # PowerBI_practice
 
-List of various PowerBI projects I created with their associated sql queries.
+They key thing to understand is that this is practice.  With kaggle data sets, or data i found on the internet, there isn't a business problem to solve.  
 
-I was fundamentally learning how to find insights. None of these projects solve a business problem, they are only intended to show my understanding of the tools.
+The point here is to show I know how to use the tools.
 
-[pic](KPOP_Girl_Group_PowerBI.png)
+
+I'm very fond of female Kpop groups, and in recent years they've gone from relative obscurity to worldwide phenomenons. I used search data to create a table in sql and then imported it into PowerBI.  Since it was data I input, there was no cleaning involved.
+
+Insights:
+
+From this image, you can see that the surge of Kpop female groups started at around 2010 and has grown exponentially since.
+
+I was suprised to see that each Record Label or Studio only had a few highly successful groups.
+
+Lastly it surprised me only half the groups that started are still permorming. Popularity appears to be fleeting.
+
 ![Kpop_Girl_Group_Debut](https://github.com/BradleyColson/PowerBI_practice/assets/132014177/a7d5bdf6-87eb-494d-b85f-04207494dcbb)
