@@ -17,6 +17,8 @@ Lastly it surprised me only half the groups that started are still permorming. P
 
 ![Kpop_Girl_Group_Debut](https://github.com/BradleyColson/PowerBI_practice/assets/132014177/a7d5bdf6-87eb-494d-b85f-04207494dcbb)
 
+****
+
 As I study and practice more, I've learned some better technique.
 
 I wanted to improve the debut year chart, I found it ugly. I also realized I'd left duplicates in the csv file.
