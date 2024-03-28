@@ -1,6 +1,6 @@
 # PowerBI_practice
 
-They key thing to understand is that this is practice.  With kaggle data sets, or data i found on the internet, there isn't a business problem to solve.  
+They key thing to understand is that this is practice.  With kaggle data sets, or data I found on the internet, there isn't a business problem to solve.  
 
 The point here is to show I know how to use the tools.
 
