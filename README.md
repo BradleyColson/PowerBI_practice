@@ -74,3 +74,20 @@ left join cost_table b
 Please provide a recommendation on price increase.
 
 ![image](https://github.com/BradleyColson/PowerBI_practice/assets/132014177/c2ece381-9329-48b5-917a-0918fe25a94a)
+
+Analysis:
+
+![image](https://github.com/BradleyColson/PowerBI_practice/assets/132014177/c11d9b22-4d56-4e28-bb12-f8819238fe7f)
+
+Example recommendation:
+
+Conservative Increase: Considering the substantial increase last year, a more conservative increase might be safer to avoid hitting a price ceiling where demand starts to drop.  An increase in the range of 10-15% could test the market response without risking a significant customer loss.
+
+Price setting: 
+
+If the price in 2022 was $4.99, a 10% increase would make the new price $5.49
+A 15% increase would set the price at $5.47
+
+Segmented Pricing Strategy: Consider different pricing for casual versus registered users as they might have different price sensitivies.
+Monitor and Adjust: Implement the new prices but be ready to adjust based on immediate customer feedback and sales data.
+
