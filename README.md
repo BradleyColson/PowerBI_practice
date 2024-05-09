@@ -52,10 +52,7 @@ Stakeholder request:
 
 Real World code along example.
 
-Hourly revenue analysis
-Profit and revenue trends
-Seasonal revenue
-Rider demographics
+Hourly revenue analysis, Profit and revenue trends, Seasonal revenue, Rider demographics
 
 SQL query:
 
