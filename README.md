@@ -46,3 +46,8 @@ The result being this much better looking dashboard.
 
 ![KPop_Debut_PowerBI](https://github.com/BradleyColson/PowerBI_practice/assets/132014177/1f0c94dd-3bf4-48d5-9010-59c0b04083ef)
 
+Bike Data Project
+
+Stakeholder request:
+
+![image](https://github.com/BradleyColson/PowerBI_practice/assets/132014177/c2ece381-9329-48b5-917a-0918fe25a94a)
