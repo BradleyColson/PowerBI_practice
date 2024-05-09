@@ -77,7 +77,8 @@ Please provide a recommendation on price increase.
 
 Analysis:
 
-![image](https://github.com/BradleyColson/PowerBI_practice/assets/132014177/c11d9b22-4d56-4e28-bb12-f8819238fe7f)
+![image](https://github.com/BradleyColson/PowerBI_practice/assets/132014177/48e2b88c-e4b9-48a9-b9cf-7a5e71862c58)
+
 
 Example recommendation:
 
