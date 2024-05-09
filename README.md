@@ -50,4 +50,13 @@ Bike Data Project
 
 Stakeholder request:
 
+Real World code along example.
+
+Hourly revenue analysis
+Profit and revenue trends
+Seasonal revenue
+Rider demographics
+
+Please provide a recommendation on price increase.
+
 ![image](https://github.com/BradleyColson/PowerBI_practice/assets/132014177/c2ece381-9329-48b5-917a-0918fe25a94a)
