@@ -57,6 +57,23 @@ Profit and revenue trends
 Seasonal revenue
 Rider demographics
 
+SQL query:
+
+with cte as (
+select *
+from dbo.bike_share_yr_0
+union
+select *
+from dbo.bike_share_yr_1)
+
+select 
+	dteday, season, a.yr,weekday, hr, rider_type, riders, price, COGS, 
+	riders * price as revenue,
+	riders * price - COGS as profit
+from cte a
+left join cost_table b
+	on a.yr = b.yr
+
 Please provide a recommendation on price increase.
 
 ![image](https://github.com/BradleyColson/PowerBI_practice/assets/132014177/c2ece381-9329-48b5-917a-0918fe25a94a)
