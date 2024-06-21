@@ -26,23 +26,22 @@ select *
 from dbo.bike_share_yr_1)
 
 select 
+
 	dteday, 
  
  	season, 
  
  	a.yr,
   
-  	weekday, 
+	weekday, 
   	
-   	hr, 
-    
-    	rider_type,
+	hr, rider_type,
      
-     	riders,
+	riders,
       	
-        price, 
+	price, 
 	
- 	COGS,
+	COGS,
   
 	riders * price as revenue,
  
