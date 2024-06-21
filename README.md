@@ -11,6 +11,8 @@ Hourly revenue analysis, Profit and revenue trends, Seasonal revenue, Rider demo
 
 SQL query:
 
+--Using CTE to union to join Table years 1 and 2, as well as the Cost table.
+
 with cte as (
 
 select *
