@@ -26,7 +26,6 @@ select *
 from dbo.bike_share_yr_1)
 
 select 
-
 	dteday, 
  
  	season, 
