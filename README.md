@@ -66,7 +66,7 @@ left join cost_table b
 
 Conservative Increase: Considering the substantial increase last year, a more conservative increase might be safer to avoid hitting a price ceiling where demand starts to drop.  An increase in the range of 10-15% could test the market response without risking a significant customer loss.
 
-## Price setting: 
+### Price setting: 
 
 
 If the price in 2022 was $4.99, a 10% increase would make the new price $5.49
