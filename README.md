@@ -1,15 +1,11 @@
 # PowerBI_practice
 
-They key thing to understand is that this is practice.  With kaggle data sets, or data I found on the internet, there isn't a business problem to solve.  
-
-The point here is to show I know how to use the tools.
+##These are practice portfolio projects
 
 
-Bike Data Project
+#Bike Data Project
 
-Stakeholder request:
-
-Real World code along example.
+##Stakeholder request:
 
 Hourly revenue analysis, Profit and revenue trends, Seasonal revenue, Rider demographics
 
@@ -30,33 +26,39 @@ from cte a
 left join cost_table b
 	on a.yr = b.yr
 
-Please provide a recommendation on price increase.
+#Please provide a recommendation on price increase.
 
 ![image](https://github.com/BradleyColson/PowerBI_practice/assets/132014177/c2ece381-9329-48b5-917a-0918fe25a94a)
 
-Analysis:
+##Analysis:
 
 ![image](https://github.com/BradleyColson/PowerBI_practice/assets/132014177/48e2b88c-e4b9-48a9-b9cf-7a5e71862c58)
 
 
-Example recommendation:
+##Example recommendation:
 
 Conservative Increase: Considering the substantial increase last year, a more conservative increase might be safer to avoid hitting a price ceiling where demand starts to drop.  An increase in the range of 10-15% could test the market response without risking a significant customer loss.
 
-Price setting: 
+##Price setting: 
 
 
 If the price in 2022 was $4.99, a 10% increase would make the new price $5.49
 A 15% increase would set the price at $5.47
 
-Segmented Pricing Strategy: Consider different pricing for casual versus registered users as they might have different price sensitivies.
+###Segmented Pricing Strategy: 
+
+Consider different pricing for casual versus registered users as they might have different price sensitivies.
 Monitor and Adjust: Implement the new prices but be ready to adjust based on immediate customer feedback and sales data.
 
 ********************
 
+#Call Center Metrics
+
 Stakeholder requirement.
 
-Total number of calls: We need to track and display the total number of calls received by our call center reverse specified period.
+##Total number of calls: We need to track and display the total number of calls received by our call center reverse specified period.
+
+###Metrics Definitions
 
 Total collaboration in hours: It is crucial to understand the total amount of time our call center staff spends on calls in hours, which can help us in resource allocation and capacity planning.
 
