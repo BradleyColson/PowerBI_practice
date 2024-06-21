@@ -25,9 +25,13 @@ from dbo.bike_share_yr_1)
 
 select 
 
-	dteday, season, 
+	dteday, 
  
- 	a.yr,weekday, 
+ 	season, 
+ 
+ 	a.yr,
+  
+  	weekday, 
   	
    	hr, 
     
