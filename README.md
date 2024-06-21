@@ -12,10 +12,15 @@ Hourly revenue analysis, Profit and revenue trends, Seasonal revenue, Rider demo
 SQL query:
 
 with cte as (
+
 select *
+
 from dbo.bike_share_yr_0
+
 union
+
 select *
+
 from dbo.bike_share_yr_1)
 
 select 
