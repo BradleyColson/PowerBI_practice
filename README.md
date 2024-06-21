@@ -1,11 +1,11 @@
 # PowerBI_practice
 
-##These are practice portfolio projects
+## These are practice portfolio projects
 
 
-#Bike Data Project
+# Bike Data Project
 
-##Stakeholder request:
+## Stakeholder request:
 
 Hourly revenue analysis, Profit and revenue trends, Seasonal revenue, Rider demographics
 
